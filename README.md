@@ -25,4 +25,4 @@
 
 Более подробно функции приложения описаны здесь:
 
-[](/description/README.md)
+description/README.md
